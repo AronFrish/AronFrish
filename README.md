@@ -1,40 +1,59 @@
-Hi 👋 My name is Aron Frishberg
-===============================
+# Hi there, I'm Aron Frishberg 👋
 
-Back-End and Python Developer
-------------------------
+## 🎓 Computer Science & Economics Student | 💻 Software Engineer
 
-I started learning HTML a few years ago, and that's how I really got into coding. I taught myself Javascript and CSS to go along with HTML and then ventured out into other languages, like Java and Python. Currently, I work on a lot of projects in Python but I like to play around with the other languages I know occasionally.
+I'm a passionate developer and student at the University of Chicago, blending the worlds of technology and economics. My journey in coding started with web development and has since expanded to various languages and technologies.
 
-* 🌍  I'm based in Scarsdale, NY / Chicago, IL
-* 📕  I'm studying at the University of Chicago, where I'm majoring in Computer Science and Economics
-* 🖥️  See my personal website at [aronfrishberg.com](http://aronfrishberg.com)
-* ✉️  You can contact me at [frishberg@uchicago.edu](mailto:frishberg@uchicago.edu)
-* 🤝  I'm open to collaborating on real-world projects, that include python, websites, and really anything
-* ⚡  I love Falafel and Hummus
+![Profile Views](https://komarev.com/ghpvc/?username=frishberg&color=blue)
 
-## Skills
+### 🚀 Quick Facts
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+- 🏫 Studying Computer Science and Economics at the University of Chicago
+- 🔬 Research Assistant at UChicago's Department of Economics, working with Nobel Laureate James Heckman
+- 🌱 Currently exploring AI, Machine Learning, and financial modeling
+- 💼 Interned at Third Point LLC and TRACT
+- 🔭 Working on projects that combine finance, technology, and economic research
+- 📫 Reach me at: [frishberg@uchicago.edu](mailto:frishberg@uchicago.edu)
+- 🌐 Check out my website: [aronfrishberg.com](http://aronfrishberg.com)
 
-## Socials
+### 🛠 Technologies & Tools
 
-<p align="left"> <a href="https://www.github.com/AronFrish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aron_frishberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aron-frishberg-376b0b205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Badges
+### 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/frishberg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frishberg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frishberg&layout=compact&langs_count=8&theme=react"/>
+</a>
 
-<a href="http://www.github.com/AronFrish"><img src="https://github-readme-stats.vercel.app/api?username=AronFrish&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AronFrish's GitHub stats" /></a>
+### 🏆 GitHub Trophies
 
-<a href="http://www.github.com/AronFrish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AronFrish&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![trophy](https://github-profile-trophy.vercel.app/?username=frishberg&theme=nord&column=7)
 
-<a href="http://www.github.com/AronFrish"><img src="https://activity-graph.herokuapp.com/graph?username=AronFrish&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🔥 Streak Stats
 
-<a href="https://github.com/AronFrish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronFrish&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=frishberg&theme=dark)](https://git.io/streak-stats)
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aron-frishberg-376b0b205/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/frishberg)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](http://www.instagram.com/aron_frishberg)
+[![CEHD Profile](https://img.shields.io/badge/-CEHD%20Profile-800000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEkSURBVHjarJK9SgNBFIW/WZcQG0XBRrCysbATBBsrEQuLiGAhCNrYiY2Vz2BhI76AYGEhgiCCIIJYCMYfSBAFC0EQJBuSmGQ24yxi3A0bSXKqO/fOd86dcwf+QRbwD7gAkiIigMAz0AOKwBNwqLUeFRFExNNaD4nIBFACHhxyBjgHxkVkWkTmRGQFmAE2ReQYyNpNe8A2sAasAJfAhIjMisgacABcAXkRWQTOgKr1MQccuXiHgTZwC6wCu8Ci8/EaKNsxXeAD8IEW0LCJPwNFEZkEqkAH2AOOXI0DwC5QsWeeWmvfWvsDnAKbwHsf9JGITInIkIjMi8gH0LRTLAHrQAGoWUcLwJ3z8RvYAW6AXeAE2AJKrqM+cG99/IrIh4i0+gMSf/7l3wMAuk6Ap9k0SnQAAAAASUVORK5CYII=)](https://cehd.uchicago.edu/?page_id=8383)
+
+### 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frishberg&repo=Chess-Analytica&theme=react)](https://github.com/frishberg/Chess-Analytica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frishberg&repo=UChicago-Connect&theme=react)](https://github.com/frishberg/UChicago-Connect)
+
+---
+
+⭐️ From [frishberg](https://github.com/frishberg)
