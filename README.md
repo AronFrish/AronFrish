@@ -4,8 +4,6 @@
 
 I'm a passionate developer and student at the University of Chicago, blending the worlds of technology and economics. My journey in coding started with web development and has since expanded to various languages and technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=frishberg&color=blue)
-
 ### 🚀 Quick Facts
 
 - 🏫 Studying Computer Science and Economics at the University of Chicago
@@ -34,10 +32,6 @@ I'm a passionate developer and student at the University of Chicago, blending th
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frishberg&layout=compact&langs_count=8&theme=react"/>
 </a>
 
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=frishberg&theme=nord&column=7)
-
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=frishberg&theme=dark)](https://git.io/streak-stats)
@@ -52,7 +46,6 @@ I'm a passionate developer and student at the University of Chicago, blending th
 ### 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frishberg&repo=Chess-Analytica&theme=react)](https://github.com/frishberg/Chess-Analytica)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frishberg&repo=UChicago-Connect&theme=react)](https://github.com/frishberg/UChicago-Connect)
 
 ---
 
