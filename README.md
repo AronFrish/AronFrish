@@ -28,7 +28,6 @@ I'm a passionate developer and student at the University of Chicago, blending th
 ### 📊 GitHub Stats
 
 <a href="https://github.com/frishberg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frishberg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frishberg&layout=compact&langs_count=8&theme=react"/>
 </a>
 
