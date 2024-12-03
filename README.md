@@ -9,7 +9,7 @@ I'm a passionate developer and student at the University of Chicago, blending th
 - 🏫 Studying Computer Science and Economics at the University of Chicago
 - 🔬 Research Assistant at UChicago's Department of Economics, working with Nobel Laureate James Heckman
 - 🌱 Currently exploring AI, Machine Learning, and financial modeling
-- 💼 Interned at Third Point LLC and TRACT
+- 💼 Interned at Third Point and TRACT
 - 🔭 Working on projects that combine finance, technology, and economic research
 - 📫 Reach me at: [frishberg@uchicago.edu](mailto:frishberg@uchicago.edu)
 - 🌐 Check out my website: [aronfrishberg.com](http://aronfrishberg.com)
