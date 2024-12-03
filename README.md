@@ -31,10 +31,6 @@ I'm a passionate developer and student at the University of Chicago, blending th
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frishberg&layout=compact&langs_count=8&theme=react"/>
 </a>
 
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=frishberg&theme=dark)](https://git.io/streak-stats)
-
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aron-frishberg-376b0b205/)
